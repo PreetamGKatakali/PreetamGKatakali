@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **project's**
 
-- 🌱 I’m currently learning **JavaScript,NodeJS,CSS,Python with AI**
+- 🌱 I’m currently learning **JavaScript,NodeJS,CSS,AWS**
 
-- 💬 Ask me about **Python,JavaScript,C,NodeJS**
+- 💬 Ask me about **java,JavaScript,Spring,ReactJS**
 
 - 📫 How to reach me **pkatakali@gmail.com**
 
